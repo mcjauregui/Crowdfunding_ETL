@@ -6,7 +6,7 @@ Step 1:
 a. Extract the crowdfunding.xlsx Data from the Resources file provided  
 
 b. Request data frame info  
-(https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/Screenshots/02.jpeg)
+![alt_text](https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/Screenshots/02.jpeg?raw=true
 
 Step 2:  
 a. Create a Category DataFrame with the following columns:  
