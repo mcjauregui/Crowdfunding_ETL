@@ -4,11 +4,8 @@ This ETL mini project involves working with a partner to practice building an ET
 
 Step 1:   
 a. Extract the crowdfunding.xlsx Data from the Resources file provided  
-
 b. Request data frame info  
-![alt_text](https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/Screenshots/02.jpeg?raw=true
-![Image Description](relative_path_to_your_image.jpg)
-
+https://github.com/mcjauregui/Crowdfunding_ETL/tree/main/Screenshots/02.jpeg
 
 Step 2:  
 a. Create a Category DataFrame with the following columns:  
