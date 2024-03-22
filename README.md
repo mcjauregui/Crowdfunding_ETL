@@ -12,7 +12,7 @@ The instructions for this mini project are divided into the following subsection
     a) A "category_id" column that has entries going sequentially from "cat1" to "catn", where n is the number of unique categories  
     b) A "category" column that contains only the category titles  
 
-Creation of the Category and Subcategory DataFrames:      
+1) Creation of the Category and Subcategory DataFrames:      
 ![01](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/7b94a433-c03d-4cbf-a838-9c0136c66109)
 ![02](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/3c93e9da-a001-404f-96c0-13715c2ba1a9)
 ![03](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/8f454c1d-3c1c-4c59-a90a-1a4eee0f19fe)
@@ -24,14 +24,12 @@ Creation of the Category and Subcategory DataFrames:
 ![10](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/e3801840-3705-43bd-a15a-3070fef8191e)
 ![12](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/23eb7d3f-c6c2-4775-a9b3-a6db774cb3f9)
 
+2. Creation of the Campaign DataFrame:
+![13](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/040c0527-e342-4555-b19f-5778d908de6f)
+![14](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/cf7ef372-36d7-4ccb-840b-cc562029384b)
+![15](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/66c681a5-c672-425f-8f8c-0d4a4db34119)
+![16](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/c73f97ec-5837-4965-a963-ce2254d83209)
+![17](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/5dc5e2e1-f59c-4b83-9361-570117124fbf)
+![18](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/916763aa-091f-44c9-ac33-2bb96bd4ff1a)
 
 
-
-
-
-
-
-
-
-b. Export the DataFrame as a category.csv CSV file.
-   Export the DataFrame as a subcategory.csv CSV file.
