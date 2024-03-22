@@ -10,10 +10,10 @@ b. Request data frame info
 
 Step 2:  
 a. Create a Category DataFrame with the following columns:  
-    A "category_id" column that is numbered sequential from 1 to the length of the number of unique categories.
-    A "category" column that has only the categories.
-Create a SubCategory DataFrame with the following columns:
-    A "subcategory_id" column that is numbered sequential from 1 to the length of the number of unique subcategories
+    A "category_id" column that is numbered sequential from 1 to the length of the number of unique categories.  
+    A "category" column that has only the categories.  
+Create a SubCategory DataFrame with the following columns:  
+    A "subcategory_id" column that is numbered sequential from 1 to the length of the number of unique subcategories  
     A "subcategory" column that has only the subcategories
 
 
