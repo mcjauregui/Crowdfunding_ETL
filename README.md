@@ -22,6 +22,7 @@ Creation of the Category and Subcategory DataFrames:
 ![08](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/21a42a03-e8aa-4577-a34e-c833937b55df)
 ![09](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/aef5dd3b-2896-49c9-b5fb-5ba1599ef57a)
 ![10](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/e3801840-3705-43bd-a15a-3070fef8191e)
+![12](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/23eb7d3f-c6c2-4775-a9b3-a6db774cb3f9)
 
 
 
