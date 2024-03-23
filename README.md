@@ -29,4 +29,12 @@ The instructions for this mini project are divided into the following subsection
 ![17](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/5dc5e2e1-f59c-4b83-9361-570117124fbf)
 ![18](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/916763aa-091f-44c9-ac33-2bb96bd4ff1a)
 
-3. Creation of the Contacts DataFrame: 
+3. Creation of the Contacts DataFrame:
+
+![20](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/84f6b307-8830-41de-a1dc-bca627a045d5)
+![21](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/7512a818-af16-4612-a9f5-df4afed1e727)
+![22](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/b2a6590a-e159-4f08-88c3-7d870274b090)
+![23](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/0d351266-ce0c-4874-9109-17665511b07f)
+![24](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/413e7085-9bba-4dbd-8cf0-280b82e4bc80)
+![25](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/669c8dc9-b471-41fd-9adf-6452cb131daf)
+
