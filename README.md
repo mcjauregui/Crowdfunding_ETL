@@ -40,5 +40,6 @@ The instructions for this mini project are divided into the following subsection
 ![25](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/669c8dc9-b471-41fd-9adf-6452cb131daf)
 
 5. Creation of the Crowdfunding Database  
+
   
      
