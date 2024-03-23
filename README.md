@@ -8,7 +8,8 @@ The instructions for this mini project are divided into the following subsection
 3) Create the Contacts DataFrame  
 4) Create the Crowdfunding Database  
 
-1) Creation of the Category and Subcategory DataFrames:      
+1) Creation of the Category and Subcategory DataFrames:
+      
 ![01](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/7b94a433-c03d-4cbf-a838-9c0136c66109)
 ![02](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/3c93e9da-a001-404f-96c0-13715c2ba1a9)
 ![03](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/8f454c1d-3c1c-4c59-a90a-1a4eee0f19fe)
@@ -28,4 +29,4 @@ The instructions for this mini project are divided into the following subsection
 ![17](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/5dc5e2e1-f59c-4b83-9361-570117124fbf)
 ![18](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/916763aa-091f-44c9-ac33-2bb96bd4ff1a)
 
-
+3. Creation of the Contacts DataFrame: 
