@@ -9,7 +9,7 @@ The instructions for this mini project are divided into the following subsection
 4) Create the Crowdfunding Database  
 
 1) Creation of the Category and Subcategory DataFrames:
-      
+        
 ![01](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/7b94a433-c03d-4cbf-a838-9c0136c66109)
 ![02](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/3c93e9da-a001-404f-96c0-13715c2ba1a9)
 ![03](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/8f454c1d-3c1c-4c59-a90a-1a4eee0f19fe)
@@ -22,6 +22,7 @@ The instructions for this mini project are divided into the following subsection
 ![12](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/23eb7d3f-c6c2-4775-a9b3-a6db774cb3f9)
 
 2. Creation of the Campaign DataFrame:
+       
 ![13](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/040c0527-e342-4555-b19f-5778d908de6f)
 ![14](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/cf7ef372-36d7-4ccb-840b-cc562029384b)
 ![15](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/66c681a5-c672-425f-8f8c-0d4a4db34119)
@@ -29,8 +30,8 @@ The instructions for this mini project are divided into the following subsection
 ![17](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/5dc5e2e1-f59c-4b83-9361-570117124fbf)
 ![18](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/916763aa-091f-44c9-ac33-2bb96bd4ff1a)
 
-3. Creation of the Contacts DataFrame:
-
+4. Creation of the Contacts DataFrame:
+    
 ![20](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/84f6b307-8830-41de-a1dc-bca627a045d5)
 ![21](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/7512a818-af16-4612-a9f5-df4afed1e727)
 ![22](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/b2a6590a-e159-4f08-88c3-7d870274b090)
@@ -38,3 +39,6 @@ The instructions for this mini project are divided into the following subsection
 ![24](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/413e7085-9bba-4dbd-8cf0-280b82e4bc80)
 ![25](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/669c8dc9-b471-41fd-9adf-6452cb131daf)
 
+5. Creation of the Crowdfunding Database  
+  
+     
