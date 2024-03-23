@@ -55,16 +55,16 @@ CREATE TABLE "category" (
     "category_id" VARCHAR(20)   NOT NULL,  
     "category" VARCHAR(50)   NOT NULL,  
     CONSTRAINT "pk_category" PRIMARY KEY (  
-        "category_id"  
-     )  
+            "category_id"  
+    )  
 );  
   
 CREATE TABLE "subcategory" (  
     "subcategory_id" VARCHAR(20)   NOT NULL,  
     "subcategory" VARCHAR(50)   NOT NULL,  
-    CONSTRAINT "pk_subcategory" PRIMARY KEY (  
+        CONSTRAINT "pk_subcategory" PRIMARY KEY (  
         "subcategory_id"  
-     )  
+         )  
 );  
 
 CREATE TABLE "campaign" (  
