@@ -19,7 +19,6 @@ The instructions for this mini project are divided into the following subsection
 ![08](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/21a42a03-e8aa-4577-a34e-c833937b55df)
 ![09](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/aef5dd3b-2896-49c9-b5fb-5ba1599ef57a)
 ![10](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/e3801840-3705-43bd-a15a-3070fef8191e)
-![12](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/23eb7d3f-c6c2-4775-a9b3-a6db774cb3f9)
 
 2. Creation of the Campaign DataFrame:
        
@@ -30,7 +29,6 @@ The instructions for this mini project are divided into the following subsection
 ![](https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/16_5.png)  
 ![](https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/17.jpeg)
 ![18](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/916763aa-091f-44c9-ac33-2bb96bd4ff1a)  
-
 
 4. Creation of the Contacts DataFrame:
     
