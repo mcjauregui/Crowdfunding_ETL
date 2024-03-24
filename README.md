@@ -24,11 +24,11 @@ The instructions for this mini project are divided into the following subsection
 2. Creation of the Campaign DataFrame:
        
 ![13](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/040c0527-e342-4555-b19f-5778d908de6f)
-![14](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/cf7ef372-36d7-4ccb-840b-cc562029384b)+++
-![15](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/66c681a5-c672-425f-8f8c-0d4a4db34119)
+![14](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/cf7ef372-36d7-4ccb-840b-cc562029384b)  
+![15](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/66c681a5-c672-425f-8f8c-0d4a4db34119)  
 ![](https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/DateChange.png)  
 [!](https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/16_5.png)  
-  
+[!](https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/17.jpeg)
 ![18](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/916763aa-091f-44c9-ac33-2bb96bd4ff1a)  
 
 
