@@ -48,10 +48,23 @@ Data Types, Primary Keys, Foreign Keys:
 ![image](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/67c9c5d9-df47-417b-af6e-af8f7fe342f4)
 
 Database Import Schema:
-  -- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
--- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
+
 ![](https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/Schema01.png)  
 ![](https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/Schema02.png)  
 ![](https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/Schema03.png)  
-  
-       
+
+  Database Queries:  
+![](https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/Query01.png)
+![](https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/Query02.png)
+![](https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/Query03.png)
+![](https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/Query04.png)
+![](https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/Query05.png)
+![](https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/Query06.png)
+![](https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/Query07.png)
+![](https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/Query08.png)
+![](https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/Query09.png)
+![](https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/Query10.png)
+
+
+    
+         
