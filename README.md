@@ -27,9 +27,9 @@ The instructions for this mini project are divided into the following subsection
 ![14](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/cf7ef372-36d7-4ccb-840b-cc562029384b)+++
 ![15](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/66c681a5-c672-425f-8f8c-0d4a4db34119)
 ![16](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/c73f97ec-5837-4965-a963-ce2254d83209)
-![17](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/5dc5e2e1-f59c-4b83-9361-570117124fbf)
-![18](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/916763aa-091f-44c9-ac33-2bb96bd4ff1a)
 ![](https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/DateChange.png)
+![18](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/916763aa-091f-44c9-ac33-2bb96bd4ff1a)
+
 
 4. Creation of the Contacts DataFrame:
     
