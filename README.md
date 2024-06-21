@@ -32,36 +32,36 @@ The instructions for this mini project are divided into the following subsection
 
 4. Creation of the Contacts DataFrame:  
     
-![20](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/84f6b307-8830-41de-a1dc-bca627a045d5)
-![21](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/7512a818-af16-4612-a9f5-df4afed1e727)
-![22](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/b2a6590a-e159-4f08-88c3-7d870274b090)
-![23](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/0d351266-ce0c-4874-9109-17665511b07f)
-![24](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/413e7085-9bba-4dbd-8cf0-280b82e4bc80)
-![25](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/669c8dc9-b471-41fd-9adf-6452cb131daf)
+![20](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/84f6b307-8830-41de-a1dc-bca627a045d5)  
+![21](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/7512a818-af16-4612-a9f5-df4afed1e727)  
+![22](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/b2a6590a-e159-4f08-88c3-7d870274b090)  
+![23](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/0d351266-ce0c-4874-9109-17665511b07f)  
+![24](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/413e7085-9bba-4dbd-8cf0-280b82e4bc80)  
+![25](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/669c8dc9-b471-41fd-9adf-6452cb131daf)  
 
 5. Creation of the Crowdfunding Database  
 
 ERD of Database Tables:  
-![](https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/Crowdfunding_ETL%20DB%20schema%20pic%202.png)
+![](https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/Crowdfunding_ETL%20DB%20schema%20pic%202.png)  
 
 Data Types, Primary Keys, Foreign Keys:  
-![image](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/67c9c5d9-df47-417b-af6e-af8f7fe342f4)
+![image](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/67c9c5d9-df47-417b-af6e-af8f7fe342f4)  
 
 Database Import Schema:  
-![Schema01](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/6740c61b-0e9e-4fa5-bec8-cd46b87d4cfd)
-![Schema02](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/826f7bec-8b63-4825-aa37-80656f290f49)
-![Schema03](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/d04e4f94-579f-44c5-b38d-1b92f09b07ed)
+![Schema01](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/6740c61b-0e9e-4fa5-bec8-cd46b87d4cfd)  
+![Schema02](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/826f7bec-8b63-4825-aa37-80656f290f49)  
+![Schema03](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/d04e4f94-579f-44c5-b38d-1b92f09b07ed)  
 
 Database Queries:  
-![Query01](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/6086f24d-fe58-47b7-9758-4a9e7082ddd7)
+![Query01](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/6086f24d-fe58-47b7-9758-4a9e7082ddd7)  
 
-![Query03](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/aeb84895-5f89-4c73-95ba-0bf6643f3c35)
+![Query03](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/aeb84895-5f89-4c73-95ba-0bf6643f3c35)  
 
-![Query05](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/b85fe64e-f34a-4e51-a04a-85db0a2428f1)
+![Query05](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/b85fe64e-f34a-4e51-a04a-85db0a2428f1)  
 
-![Query07](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/e48543a5-3368-4756-9c30-1decd156cce4)
-![Query08](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/6cb18864-3911-4c96-99a6-a92f8bfe8209)
-![Query09](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/fc73e6b3-bd9c-4e85-9c15-759fd9f3b3b8)
+![Query07](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/e48543a5-3368-4756-9c30-1decd156cce4)  
+![Query08](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/6cb18864-3911-4c96-99a6-a92f8bfe8209)  
+![Query09](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/fc73e6b3-bd9c-4e85-9c15-759fd9f3b3b8)  
 ![Query10](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/50ba5739-a9bb-4277-a610-d1c19fff1b7b)
 
 
