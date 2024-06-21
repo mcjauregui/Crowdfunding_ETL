@@ -24,10 +24,10 @@ The instructions for this mini project are divided into the following subsection
        
 ![13](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/040c0527-e342-4555-b19f-5778d908de6f)
 ![14](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/cf7ef372-36d7-4ccb-840b-cc562029384b)  
-![15](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/66c681a5-c672-425f-8f8c-0d4a4db34119)  
-![](https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/DateChange.png)  
-![](https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/16_5.png)  
-![](https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/17.jpeg)
+![15](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/66c681a5-c672-425f-8f8c-0d4a4db34119) 
+![DateChange](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/a5445b96-8b51-450e-8f3f-543e88b159d0)  
+![16_5](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/0c4ad579-e21b-48b2-a1dc-a31a1e56cfe4)  
+![17](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/22d133ba-e77f-4667-b567-c01b21e23479)  
 ![18](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/916763aa-091f-44c9-ac33-2bb96bd4ff1a)  
 
 4. Creation of the Contacts DataFrame:  
@@ -42,7 +42,7 @@ The instructions for this mini project are divided into the following subsection
 5. Creation of the Crowdfunding Database  
 
 ERD of Database Tables:  
-![](https://github.com/mcjauregui/Crowdfunding_ETL/blob/main/Crowdfunding_ETL%20DB%20schema%20pic%202.png)  
+[Crowdfunding_ETL_DB doc 2.pdf](https://github.com/user-attachments/files/15932327/Crowdfunding_ETL_DB.doc.2.pdf)
 
 Data Types, Primary Keys, Foreign Keys:  
 ![image](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/67c9c5d9-df47-417b-af6e-af8f7fe342f4)  
