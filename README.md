@@ -54,11 +54,11 @@ Database Import Schema:
 
 Database Queries:  
 ![Query01](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/6086f24d-fe58-47b7-9758-4a9e7082ddd7)
-![Query02](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/b108e02a-4661-43c5-84db-ec46372ed088)
+
 ![Query03](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/aeb84895-5f89-4c73-95ba-0bf6643f3c35)
-![Query04](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/7133d25b-03c4-4fe2-9b62-6cd2f00ec338)
+
 ![Query05](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/b85fe64e-f34a-4e51-a04a-85db0a2428f1)
-![Query06](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/fea578be-3514-4d52-a70a-a2b4281b034e)
+
 ![Query07](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/e48543a5-3368-4756-9c30-1decd156cce4)
 ![Query08](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/6cb18864-3911-4c96-99a6-a92f8bfe8209)
 ![Query09](https://github.com/mcjauregui/Crowdfunding_ETL/assets/151464511/fc73e6b3-bd9c-4e85-9c15-759fd9f3b3b8)
